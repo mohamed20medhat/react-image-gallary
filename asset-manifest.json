@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-image-gallary/static/css/main.b1932b16.css",
+    "main.js": "/react-image-gallary/static/js/main.afb04327.js",
+    "index.html": "/react-image-gallary/index.html",
+    "main.b1932b16.css.map": "/react-image-gallary/static/css/main.b1932b16.css.map",
+    "main.afb04327.js.map": "/react-image-gallary/static/js/main.afb04327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1932b16.css",
+    "static/js/main.afb04327.js"
+  ]
+}
